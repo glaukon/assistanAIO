@@ -2,6 +2,7 @@
 import schedule
 import time
 import logging
+import time
 from threading import Thread
 from backup import compress_and_upload
 
